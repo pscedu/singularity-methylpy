@@ -5,7 +5,7 @@ if [ ! $(command -v singularity) ]; then
 fi
 
 VERSION=1.4.3
-PACKAGE=nano
+PACKAGE=methylpy
 TOOL=$PACKAGE
 DIRECTORY=/opt/packages/$PACKAGE/$VERSION
 
