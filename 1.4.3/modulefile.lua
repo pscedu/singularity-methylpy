@@ -13,9 +13,6 @@ whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: methylpy is an analysis pipeline for DNA methylation data.")
 
 help([[
-methylpy 1.4.3
----------------
-
 Description
 -----------
 methylpy, a pyhton-based analysis pipeline for
